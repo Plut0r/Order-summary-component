@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git repo url](https://your-solution-url.com)
+- Solution URL: [Git repo url](https://github.com/Plut0r/Order-summary-component)
 - Live Site URL: [Git live url](https://your-live-site-url.com)
 
 ### Built with
